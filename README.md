@@ -20,12 +20,12 @@ A dynamic traffic light simulation built with React and Vite that features a tra
 
 1. Clone this repository
 ```bash
-git clone https://your-repository-url
+git clone  https://github.com/Godblessdiego/traffic-light.git
 ```
 
 2. Install dependencies
 ```bash
-npm install
+npm i
 ```
 
 3. Run the development server
